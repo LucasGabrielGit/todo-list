@@ -7,6 +7,6 @@ Neste pequeno projeto eu utilizo os conceitos aprendidos sobre React Hooks, dese
 
 ```
 
-## Foi adicionado as funcionalidades de cadastro e exclusão de tarefas
+## Foram adicionadas as funcionalidades de cadastro e exclusão de tarefas
 
 ### PS: Projeto em andamento
