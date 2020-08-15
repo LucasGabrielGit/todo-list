@@ -1,3 +1,7 @@
 html {
   background-color: #c5c5c5;
 }
+
+.App {
+  padding: 2rem;
+}
